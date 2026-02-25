@@ -1,6 +1,6 @@
 ---
 title: "3D Fireboy & Watergirl"
-date: "2025-12-25"
+date: "2025-08-25"
 description: "A voxel-based 3D co-op platformer reimagining the classic flash game — featuring dynamic split-screen, intricate puzzles, and AI-assisted character modeling."
 tech: ["JavaScript", "Three.js", "WebGL", "HTML5/CSS3"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Building a Tower Defense Game"
-date: "2025-07-25"
+date: "2025-07-24"
 description: "How we created a custom tower defense game in Java — from game mechanics to shop logic and special towers."
 tech: [Java, Json, OOP]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Museum App new"
+title: "Museum App"
 date: "2025-07-25"
 description: "How our student team built a Java app to explore museums in France — using clean architecture, visual stats, and a little help from ChatGPT."
 tech: ["Java", "Swing", "SVG", "CSV, JSON"]

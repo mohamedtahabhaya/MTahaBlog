@@ -1,6 +1,6 @@
 ---
 title: "3D Fireboy & Watergirl"
-date: "2025-08-25"
+date: "2025-09-25"
 description: "A voxel-based 3D co-op platformer reimagining the classic flash game — featuring dynamic split-screen, intricate puzzles, and AI-assisted character modeling."
 tech: ["JavaScript", "Three.js", "WebGL", "HTML5/CSS3"]
 ---
@@ -33,7 +33,7 @@ The game is entirely self-contained in a single web page:
 
 ---
 
-## How We Used AI (Gemini / ChatGPT)
+## How I Used AI (Gemini / ChatGPT)
 
 I used AI as a **high-level pair programmer** to handle complex mathematical boilerplate and accelerate the visualization process.
 

@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: "MTahaBlog",
     description: "Personal blog about code, ideas, and mindset.",
-    author: "mtahab",
+    author: "Mohamed Taha BHAYA",
   },
   plugins: [
     `gatsby-plugin-image`,
